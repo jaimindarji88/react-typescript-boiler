@@ -1,15 +1,11 @@
-import React, { Component } from 'react';
-interface Props{}
-interface State{}
+import React from 'react';
 
-class Routes extends Component<Props, State> {
-    render() {
-        return (
-            <div>
-                Hey
-            </div>
-        );
-    }
+const Routes = () => {
+    return (
+        <div>
+            
+        </div>
+    );
 }
 
 export default Routes;
