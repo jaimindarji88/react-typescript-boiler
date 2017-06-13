@@ -1,6 +1,8 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 
+import Routes from './components/index'
+
 const App = () => {
   return (
     <div>
