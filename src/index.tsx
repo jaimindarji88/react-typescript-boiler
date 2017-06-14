@@ -6,7 +6,7 @@ import Routes from './components/index'
 const App = () => {
   return (
     <div>
-      <p>Hello world!</p>
+      <Routes/>
     </div>
   )
 }
